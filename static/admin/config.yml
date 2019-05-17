@@ -1,6 +1,8 @@
 backend:
-  name: git-gateway
-  branch: master
+  name: github
+  repo: cfarm/gatsby-starter-netlify-cms
+  branch: gh-pages
+  site_domain: cfarm.github.io
 
 media_folder: static/img
 public_folder: /img
